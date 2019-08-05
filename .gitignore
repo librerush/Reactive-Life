@@ -7,3 +7,12 @@ dist
 cabal-dev
 *.hi
 *.o
+.stack-work/
+.cabal-sandbox/
+.ghc.environment.*
+cabal-dev
+cabal.config
+cabal.project.local
+cabal.sandbox.config
+dist-*/
+
